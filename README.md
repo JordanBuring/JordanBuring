@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and helping people solve technical issues. I 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/JordanBuring/vulnerability-management-program)**
 
 
 <hr/>
