@@ -5,7 +5,7 @@
 <h3 align="center">IT | Cybersecurity Professional 🔐</h3>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/jordan-buring-7a55b46"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/jordanburing"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
@@ -67,7 +67,7 @@ CompTIA Security+
 [<img align="left" alt="Jordan's LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/jordan-buring-7a55b46
+[linkedin]: https://linkedin.com/in/jordanburing
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
