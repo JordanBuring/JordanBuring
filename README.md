@@ -14,7 +14,7 @@
 
 ## ⚠️ Security Operations and Incident Response / Cloud Cybersecurity Project
 
-- **[Creating and Securing a SOC/Honeynet in Azure with live attack traffic](https://github.com/JordanBuring/Azure-Cloud-SOC)**
+- **[Creating a Honeynet in Azure with live attack traffic](https://github.com/JordanBuring/Azure-Cloud-SOC)**
 
 ## ⚠️ Vulnerability Management Project
 
